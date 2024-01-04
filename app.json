@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Guru322/GURU-BOT",
+  "repository": "https://github.com/vinnytech453/vinni bot",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
