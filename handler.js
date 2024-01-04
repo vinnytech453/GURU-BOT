@@ -576,10 +576,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ",
-                        body: "welcome to Group",
+                        title: "ᴛʜᴇ Vɪɴɴɪ-ʙᴏᴛ",
+                        body: "Wᴇʟᴄᴏᴍᴇ ᴛᴏ Oᴜʀ Gʀᴏᴜᴘ ʙᴀʙʏ ",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA',
+                        sourceUrl: 'https://chat.whatsapp.com/EC6CWWjUXFWHAy85haV8Go',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -629,10 +629,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ",
+                        title: "ᴛʜᴇ Vɪɴɴɪ-ʙᴏᴛ",
                         body: "Goodbye from  Group",
                         thumbnailUrl: leaveApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA',
+                        sourceUrl: 'https://chat.whatsapp.com/EC6CWWjUXFWHAy85haV8Go',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -741,7 +741,7 @@ export async function deleteUpdate(message) {
        
             await this.reply(msg.chat, `
             ≡ deleted a message 
-            ┌─⊷  𝘼𝙉𝙏𝙄 𝘿𝙀𝙇𝙀𝙏𝙀 
+            ┌─⊷  ᴀɴᴛɪ ᴅᴇʟᴇᴛᴇ 
             ▢ *Number :* @${participant.split`@`[0]} 
             └─────────────
             TO DEACTIVE , PRESS 
