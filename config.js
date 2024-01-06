@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['254768666068', 'vinnie', true],
+  ['254731103302', 'vinnir', true], 
   [''] 
 ] //Number of owners
 
@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 global.botname = '𝐓ʜᴇ 𝐕ιииι-𝐁ᴏᴛ'
 global.premium = 'true'
 global.packname = 'Ѵιииι┃ᴮᴼᵀ' 
-global.author = 't.me/TaitanGamerzz' 
+global.author = 't.me/vinnie' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/taitan__rowshan\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
